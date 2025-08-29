@@ -1,0 +1,7 @@
+ExternalSources:
+  type: "std::map<Es::Uuid, Es::Path>"
+  value:
+    - 25228288-d8b9-41e4-a9b7-629f057a55a4: /Users/laurentmarcus/Library/Preferences/Snap/Lens Studio/LibraryComponents/SpectaclesInteractionKit.lspkg
+    - 39442495-e48f-44e1-bf5d-a3a264ad537c: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/Resources/flat.ss_graph
+    - c10151d1-4432-449f-86b9-110f127218b8: /Users/laurentmarcus/Desktop/cardetect.png
+  options: 4
